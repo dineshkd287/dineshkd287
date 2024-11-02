@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dinesh Kundeti!
 
-🎓 I'm a Master's student in Information Technology at the University of Cincinnati, graduating in April 2024. My academic journey has equipped me with a strong foundation in software development and data analytics.
+🎓 I hold a Master's degree in Information Technology from the University of Cincinnati. My academic journey has equipped me with a strong foundation in software development and data analytics.
 
 💻 **Skills**:  
 - **Java** & **Python**: Proficient in developing applications and algorithms.
